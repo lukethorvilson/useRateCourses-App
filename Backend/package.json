@@ -1,0 +1,19 @@
+{
+  "name": "use-rate-courses-app",
+  "version": "1.0.0",
+  "description": "This is the API I will be building for the frontend NEXT.js will fetch on the server.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukethorvilson/useRateCourses-App.git"
+  },
+  "author": "Luke Thorvilson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukethorvilson/useRateCourses-App/issues"
+  },
+  "homepage": "https://github.com/lukethorvilson/useRateCourses-App#readme"
+}
